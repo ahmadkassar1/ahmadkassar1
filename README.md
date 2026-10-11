@@ -21,6 +21,7 @@ A responsive course catalogue and interactive player built with Next.js App Rout
 - [Product Manager](https://crud-products-app-eta.vercel.app/) · [Source](https://github.com/ahmadkassar1/crud-products-app) — vanilla JavaScript CRUD with validated prices, browser-local storage, confirmation and undo, and regression tests.
 - [Quizzical](https://quizzical-react-chi.vercel.app/) · [Source](https://github.com/ahmadkassar1/quizzical-react) — a React trivia quiz with loading and error states, answer review and replay.
 - [Tenzies](https://react-tenzies-challenge.vercel.app/) · [Source](https://github.com/ahmadkassar1/react-tenzies-challenge) — a React dice game with keyboard controls, browser-saved best scores and game/storage regression tests.
+- [Assembly: Endgame](https://assembly-endgame-drab.vercel.app/) · [Source](https://github.com/ahmadkassar1/assembly-endgame) — a React word game with keyboard controls, derived round state and game-rule regression tests.
 
 ## Technologies
 
