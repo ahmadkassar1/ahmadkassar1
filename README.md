@@ -1,8 +1,12 @@
 # Ahmad Kassar
 
-Frontend Developer based in Lebanon. I build business interfaces with Angular and TypeScript, and work on React and Next.js projects.
+## Full-Stack Developer | ERP Specialist
 
-My work includes ERP screens, Kanban boards and dynamic forms. I focus on reusable components, clear state management, API integration and accessible, responsive interfaces.
+I build B2B ERP, SaaS, and AI-integrated web applications. Based in Lebanon, I have 3+ years of web development experience with Angular, React, Next.js, and TypeScript, alongside backend API routes, Supabase, and PostgreSQL.
+
+My ERP experience spans project management, finance, accounting, sales, and stock management. I also build Kanban workflows, dynamic forms, and reusable components that turn business requirements into practical interfaces.
+
+I work across the application stack, connecting responsive interfaces to APIs and data, integrating AI features into CRM workflows, and automating lead capture with n8n. I use automated tests and keyboard-accessibility checks to support reliable delivery.
 
 ## Featured project
 
@@ -25,10 +29,13 @@ A responsive course catalogue and interactive player built with Next.js App Rout
 
 ## Technologies
 
-Angular, React, Next.js, TypeScript, JavaScript, RxJS, HTML, CSS, REST APIs, Supabase and PostgreSQL. For testing and delivery, I use Playwright, Jasmine, Git and Vercel.
+- **Web applications:** Angular, React, Next.js, TypeScript, JavaScript, RxJS, HTML, CSS/SCSS, Tailwind CSS
+- **Backend and data:** Next.js API routes, REST APIs, Supabase, PostgreSQL
+- **AI and automation:** AI feature integration, n8n, lead capture and CRM workflows
+- **Testing and delivery:** Playwright, Jasmine, Jest, Git, GitHub, Vercel
 
 ## Contact
 
-Open to remote frontend opportunities.
+Open to remote full-stack, ERP, and SaaS development opportunities.
 
 [LinkedIn](https://www.linkedin.com/in/ahmad-kassar-2627ab2bb/)
